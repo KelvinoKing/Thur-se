@@ -1,1 +1,1 @@
-***depl.sh*** -> *Automates deployments*
+***depl.sh*** -> *Automates deployment*
